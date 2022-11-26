@@ -1,6 +1,6 @@
 # Meu nome é Daniel Studart
 -  Estou estudando Engenharia de Computação na IBMEC-RJ 🖥️
--  Tenho interesse na área de economia do mercado 💸📈📊
+-  Tenho interesse na área de economia 💸📈📊
 -  Estou aprendendo: 
 ```Python 
 print("Python")
@@ -21,6 +21,7 @@ ELSE
 GO  
 ```
 -  Tenho 18 anos
+
 
 ## Contato
 [**Email**](danielstudart22@gmail.com)   |    [**Linkedin**](https://www.linkedin.com/in/daniel-studart-584bb3214/)
