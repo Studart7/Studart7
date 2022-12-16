@@ -14,11 +14,7 @@ class Apresentacao{
 }
 ```
 ```SQL
-IF Esta_lendo = True  
-    PRINT N'SQL';  
-ELSE  
-    PRINT N'Nada';  
-GO  
+SQL
 ```
 -  Tenho 18 anos
 
