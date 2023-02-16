@@ -13,8 +13,10 @@ class Apresentacao{
   } 
 }
 ```
-```SQL
-SQL
+```JavaScript
+let linguagem = "JavaScript";
+
+console.log(linguagem);
 ```
 -  Tenho 18 anos
 
