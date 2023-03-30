@@ -18,6 +18,16 @@ let linguagem = "JavaScript";
 
 console.log(linguagem);
 ```
+```C
+#include <stdio.h>
+
+
+int main(){
+    char nome[] = "C";
+    printf("%s", nome);
+    return 0;
+}
+```
 -  Tenho 18 anos
 
 
