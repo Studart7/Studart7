@@ -1,40 +1,21 @@
-# Meu nome é Daniel Studart
--  Estou estudando Engenharia de Computação na IBMEC-RJ 🖥️
--  Tenho interesse na área de economia 💸📈📊
--  Estou aprendendo: 
-```Python 
-print("Python")
-```
-```Java
-package oi;
-class Apresentacao{
-  public static main(String[] args){    
-    System.out.println("Java")    
-  } 
-}
-```
-```JavaScript
-let linguagem = "JavaScript";
+# Daniel Studart 👋
 
-console.log(linguagem);
-```
-```C
-#include <stdio.h>
+## Sobre mim
+Sou estudante de Engenharia de Computação no IBMEC-RJ, com interesse em desenvolvimento de software, especialmente na área de **Front-End**.
 
-
-int main(){
-    char nome[] = "C";
-    printf("%s", nome);
-    return 0;
-}
-```
--  Tenho 21 anos
-
+## Habilidades Técnicas
+- **Front-End:** HTML, CSS, JavaScript, React.js  
+- **Controle de Versão:** Git, GitHub  
+- **Outras Tecnologias:** Python, Java, C, SQL, Pacote Office(Excel, Word, PPT)  
+- Conhecimento em boas práticas de desenvolvimento, UX/UI básico e metodologias ágeis.
 
 ## Contato
-[**Email**](danielstudart22@gmail.com)   |    [**Linkedin**](https://www.linkedin.com/in/daniel-studart-584bb3214/)
+📧 danielstudart22@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/daniel-studart-584bb3214/)
 
+---
 
+Estou aberto a oportunidades para aplicar minhas habilidades em projetos desafiadores e contribuir para equipes dinâmicas.
 
 <!---
 Studart7/Studart7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
